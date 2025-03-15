@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "person.png"
   name             : "Xinzhe Wang"
   pronouns         : # example: "she/her"  
   bio              : "A final-year undergraduate at Guilin University of Technology and incoming master's student at Shenzhen University."
